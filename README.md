@@ -318,6 +318,6 @@ System.out.println(sb);
 
 # Author
 
-Yash Raj
-B.Tech CSE
-Learning Java Programming
+Yash Raj,
+B.Tech CSE,
+Learning Java Programming.
