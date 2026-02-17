@@ -3,9 +3,9 @@ class StringBuilderExample {
 
         StringBuilder sb = new StringBuilder("Hello");
 
-        sb.append(" Java");   // add text
-        sb.insert(5, " Programming"); // insert text
-        sb.replace(0, 5, "Hi"); // replace text
+        sb.append(" Java");
+        sb.insert(5, " Programming");
+        sb.replace(0, 5, "Hi");
 
         System.out.println(sb);
     }
